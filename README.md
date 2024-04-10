@@ -1,5 +1,5 @@
 # Overview
-A Python script that uses Flask, SQLAlchemy and SQLite to create a to-do App using CRUD operations.
+A Python script that uses Flask, SQLAlchemy and SQLite to create a to-do app using CRUD operations.
 
 # Description
 I decided to build a to-do app to learn more about the fundamental concepts and skills in web development and database interaction. I did quite a bit of research for this project and watched several tutorials online, which included information about the different web frameworks available, how they operate, what database to use to store data, as well as CRUD operations.
