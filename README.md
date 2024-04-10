@@ -28,3 +28,5 @@ As I continue researching and exploring tutorials on other to-do apps, I'm inter
 * Adding sorting and filtering options for better task organization
 * Enhancing the HTML and user interface to improve overall aesthetics and usability
 
+# Screenshot of User Interface
+![flask-to-do-screenshot](https://github.com/zig-182/to-do-list/assets/142557054/55695a69-92c1-44ff-8bee-570fb33a3ef9)
